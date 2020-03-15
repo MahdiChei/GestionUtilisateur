@@ -1,4 +1,5 @@
 create database Test;
+use Test;
 create table login(
 	id int PRIMARY KEY NOT NULL AUTO_INCREMENT,
 	Username varchar(50),
