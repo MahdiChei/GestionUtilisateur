@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>Template</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>Activer</word>
+            <word>Afficher</word>
+            <word>AJAX</word>
+            <word>Ajouter</word>
+            <word>Bbootstrap</word>
+            <word>Codeigniter</word>
+            <word>compte</word>
+            <word>CSS</word>
+            <word>DataTable</word>
+            <word>DataTables</word>
+            <word>Daterange</word>
+            <word>Etat</word>
+            <word>Gestion</word>
+            <word>iCheck</word>
+            <word>JQVMap</word>
+            <word>les</word>
+            <word>manupiler</word>
+            <word>Navbar</word>
+            <word>nouveau</word>
+            <word>OFPPT</word>
+            <word>overlayScrollbars</word>
+            <word>passeword</word>
+            <word>premet</word>
+            <word>Prénom</word>
+            <word>qui</word>
+            <word>summernote</word>
+            <word>Supprimer</word>
+            <word>svg</word>
+            <word>Tempusdominus</word>
+            <word>Utilisateur</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
