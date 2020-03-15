@@ -146,7 +146,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
                 $object_writer = PHPExcel_IOFactory::createWriter($object, 'Excel5');
                 header('Content-Type: application/vnd.ms-excel');
-                header('Content-Disposition: attachment;filename="Users.xls"');
+                header('Content-Disposition: attachment;filename="Users.xlsx"');
                 return $object_writer->save('php://output');
             }
         }
